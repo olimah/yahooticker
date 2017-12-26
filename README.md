@@ -7,12 +7,11 @@ Contents
 4. Invocation
 5. Version History
 
-
-1. Description
+1. Description:
 yahooticker is a LibreOffice Calc Add-In function that queries yahoo.finance
 for the current market value of the instrument passed to it.
 
-2. Compilation
+2. Compilation:
 If you want to compile the .oxt yourself, you will need the LibreOffice SDK.
 
 Generating the .oxt is a two step process:
@@ -21,12 +20,12 @@ Generating the .oxt is a two step process:
 
 The resulting yahooticker.oxt can then be found in the current folder.
 
-3. Installation
+3. Installation:
 In the LibreOffice Menu go to Tools->Extension Manager
 Then click on Add... and go to the location of yahooticker.oxt. Click on open
 to register the AddOn with LibreOffice.
 
-4. Invocation
+4. Invocation:
 Generell invocation works as follows:
 
 =YAHOOTICKER("instrument_to_query")
@@ -44,5 +43,5 @@ string behind the last slash to it.
 
 Note that the call may fail, when the exchange is closed.
 
-5. Version History
-yahooticker V 0.1 was released on 11.25.2017
+5. Version History:
+yahooticker V 0.1 was released on 12.26.2017
