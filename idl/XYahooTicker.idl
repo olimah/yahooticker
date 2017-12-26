@@ -1,0 +1,10 @@
+#include <com/sun/star/uno/XInterface.idl>
+
+module com { module olivermahmoudi { module programming { module yahooticker {
+
+    interface XYahooTicker
+    {
+      double yahooticker( [in] string instrument );
+    };
+
+}; }; }; };
