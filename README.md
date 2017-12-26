@@ -7,6 +7,7 @@ Contents
 4. Invocation
 5. Version History
 
+
 1. Description
 yahooticker is a LibreOffice Calc Add-In function that queries yahoo.finance
 for the current market value of the instrument passed to it.
