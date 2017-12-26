@@ -1,11 +1,13 @@
 README for yahooticker
 
+-------------------------------------------
 Contents
 1. Description
 2. Compilation
 3. Installation
 4. Invocation
 5. Version History
+-------------------------------------------
 
 1. Description:
 yahooticker is a LibreOffice Calc Add-In function that queries yahoo.finance
