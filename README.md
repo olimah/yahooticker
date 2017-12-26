@@ -1,4 +1,3 @@
-# yahooticker
 README for yahooticker
 
 Contents
